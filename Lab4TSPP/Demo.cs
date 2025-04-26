@@ -62,4 +62,19 @@ public class Demo
         Console.WriteLine("Курс EUR → USD: " + adapter.GetExchangeRate("EUR", "USD"));
         Console.WriteLine("Курс USD → EUR: " + adapter.GetExchangeRate("USD", "EUR"));
     }
+    
+    public static void RunFactoryDemo()
+    {
+        UserFactory adminFactory = new AdminFactory();
+        UserFactory managerFactory = new ManagerFactory();
+        UserFactory employeeFactory = new EmployeeFactory();
+
+        IUser admin = adminFactory.CreateUser();
+        IUser manager = managerFactory.CreateUser();
+        IUser employee = employeeFactory.CreateUser();
+
+        admin.DisplayInfo();
+        manager.DisplayInfo();
+        employee.DisplayInfo();
+    }
 }

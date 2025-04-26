@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab4TSPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444f47c0aa96abc776865898ede3c9a5eff563a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab4TSPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab4TSPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

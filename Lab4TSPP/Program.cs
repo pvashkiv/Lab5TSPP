@@ -6,9 +6,10 @@ class Program
         Console.WriteLine("1 — Observer (сповіщення про замовлення)");
         Console.WriteLine("2 — Singleton (менеджер ресурсів)");
         Console.WriteLine("3 — Adapter (конвертер валют)");
+        Console.WriteLine("4 — Factory Method (створення користувачів)");
         Console.Write("Ваш вибір: ");
 
-        string? input = Console.ReadLine();
+        string input = Console.ReadLine();
 
         switch (input)
         {
@@ -27,6 +28,11 @@ class Program
                 Demo.RunAdapterDemo();
                 break;
 
+            case "4":
+                Console.WriteLine("\n=== Factory Method ===");
+                Demo.RunFactoryDemo();
+                break;
+            
             default:
                 Console.WriteLine("Невірний вибір.");
                 break;
