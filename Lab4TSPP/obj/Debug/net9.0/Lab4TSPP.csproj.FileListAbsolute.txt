@@ -1,0 +1,14 @@
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.AssemblyInfoInputs.cache
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.AssemblyInfo.cs
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.csproj.CoreCompileInputs.cache
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/bin/Debug/net9.0/Lab4TSPP
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/bin/Debug/net9.0/Lab4TSPP.deps.json
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/bin/Debug/net9.0/Lab4TSPP.runtimeconfig.json
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/bin/Debug/net9.0/Lab4TSPP.dll
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/bin/Debug/net9.0/Lab4TSPP.pdb
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.dll
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/refint/Lab4TSPP.dll
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.pdb
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.genruntimeconfig.cache
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/ref/Lab4TSPP.dll
