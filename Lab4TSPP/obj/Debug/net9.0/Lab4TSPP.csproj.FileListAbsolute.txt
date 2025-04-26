@@ -12,3 +12,4 @@
 /Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.pdb
 /Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.genruntimeconfig.cache
 /Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/ref/Lab4TSPP.dll
+/Users/pavlovaskiv/RiderProjects/Lab4TSPP/Lab4TSPP/obj/Debug/net9.0/Lab4TSPP.sourcelink.json
