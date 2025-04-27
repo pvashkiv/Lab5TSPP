@@ -1,6 +1,7 @@
 public class ResourceManager
 {
-    private static ResourceManager? _instance;
+    public static readonly ResourceManager Instance = new();
+
     private Dictionary<string, string> images;
     private Dictionary<string, string> fonts;
     private Dictionary<string, string> data;
@@ -10,18 +11,6 @@ public class ResourceManager
         images = new Dictionary<string, string>();
         fonts = new Dictionary<string, string>();
         data = new Dictionary<string, string>();
-    }
-
-    public static ResourceManager Instance
-    {
-        get
-        {
-            if (_instance == null)
-            {
-                _instance = new ResourceManager();
-            }
-            return _instance;
-        }
     }
 
     public void AddImage(string key, string path)
